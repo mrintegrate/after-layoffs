@@ -1,5 +1,5 @@
-<p align="center">
-# White Paper: What happens after the layoff?
+# <p align="center">
+ White Paper: What happens after the layoff?
 </p>
 
 Maintaining company culture, morale, and community following a layoff is crucial for both the remaining employees and those who were laid off. Layoffs can be a traumatic and stressful experience, leading to feelings of uncertainty, loss, and betrayal. However, by fostering a sense of community and support, both groups can mitigate the negative impact of layoffs and even turn the experience into an opportunity for growth and development.
