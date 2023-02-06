@@ -10,9 +10,9 @@ Discord is a voice, and text-based chat program used most often in the gaming co
 
 
 ## For this application, the following role types are recommended: 
-### - Administrator
+- Administrator
 A full admin that can see every channel in discord, setup permissions, create/delete channels, configure bots, and be the adjudicator as needed.
-### - Hiring-Ally ###
+- Hiring-Ally ###
 A hiring-ally is someone from outside of the layoff group who wishes the reach out to the layoff group to help in any way possible.  So far this group has included recruiters, employees still with the previous employer, friends from the member's networks and hiring managers.
-### - Member
+- Member
 A member would have the broadest access without having full admin access.  This role is reserved for members of the layoff group.
