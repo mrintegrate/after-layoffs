@@ -18,7 +18,11 @@
   - A memberx would have the broadest access without having full admin access.  This role is reserved for memberx’s of the layoff group.
 <h3 align="center">Channel Sections</h3>
 <p>To create categories for channels in Discord, you'll need to use Discord's server settings and channel management features. Here's a general outline of the steps to follow:</p>
-
+<ol>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
 1  Access the server settings: From the server menu, click on "Server Settings" or the gear icon.
 2  Go to the "Channels" section: In the server settings, navigate to the "Channels" section.
 3  Create a new category: Click on the "Create Category" button to create a new category. You can give the category a name and set the order in which it appears in the channel list.
