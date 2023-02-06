@@ -10,6 +10,6 @@ Discord is a voice, and text-based chat program used most often in the gaming co
 
 
 ## For this application, the following role types are recommended: 
-### * Administrator
-### * Hiring-Ally
-### * Member
+### -Administrator
+### -Hiring-Ally
+### - Member
