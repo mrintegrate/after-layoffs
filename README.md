@@ -16,15 +16,27 @@
   - A hiring-ally is someone from outside of the layoff group who wishes the reach out to the layoff group to help in any way possible.  So far, this group has included recruiters, employees still with the previous employer, friends from the memberx's networks and hiring managers.
 #### Memberx (Can be any unique Name)
   - A memberx would have the broadest access without having full admin access.  This role is reserved for memberx’s of the layoff group.
-<h3 align="center">Channel Sections</h3>
+## Channel Sections
 <p>To create categories for channels in Discord, you'll need to use Discord's server settings and channel management features. Here's a general outline of the steps to follow:</p>
+
+<p>
+<img src="C:\Users\nsmas\Desktop" alt="Smiley face" style="float:right;width:42px;height:42px;">
+A paragraph with a floating image. A paragraph with a floating image. A paragraph with a floating image.
+</p>
 <ol>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>Access the server settings: From the server menu, click on "Server Settings" or the gear icon.</li>
+  <li>Go to the "Channels" section: In the server settings, navigate to the "Channels" section.</li>
+  <li>Create a new category: Click on the "Create Category" button to create a new category. You can give the category a name and set the order in which it appears in the channel list.
+</li>
+  <li>Create channels within the category: Once you have created a category, you can create channels within that category by clicking on the "Create Channel" button and selecting "Text Channel" or "Voice Channel".
+</li>
+  <li> Assign channels to the category: To assign a channel to a category, click and drag the channel into the desired category in the channel list.
+</li>
+
 </ol>
-1  Access the server settings: From the server menu, click on "Server Settings" or the gear icon.
-2  Go to the "Channels" section: In the server settings, navigate to the "Channels" section.
-3  Create a new category: Click on the "Create Category" button to create a new category. You can give the category a name and set the order in which it appears in the channel list.
-4  Create channels within the category: Once you have created a category, you can create channels within that category by clicking on the "Create Channel" button and selecting "Text Channel" or "Voice Channel".
-5  Assign channels to the category: To assign a channel to a category, click and drag the channel into the desired category in the channel list.
+
+<p>By following these steps, you can create categories for channels in your Discord server, making it easier to organize your channels and keep your server structured.</p>
+
+### Section: “Public to All: Hiring Allies”
+<p>This section is a place for anyone to join who has a network or referral to give.  It is built for those affected by layoffs or without work to have open conversations with those hiring or those who have network connections up for offer.</p>
+
