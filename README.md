@@ -1,5 +1,5 @@
 # after-layoffs
-#White Paper: What happens after the layoff?  
+#White Paper: What happens after the layoff?#
 Maintaining company culture, morale, and community following a layoff is crucial for both the remaining employees and those who were laid off. Layoffs can be a traumatic and stressful experience, leading to feelings of uncertainty, loss, and betrayal. However, by fostering a sense of community and support, both groups can mitigate the negative impact of layoffs and even turn the experience into an opportunity for growth and development.
 One important way to maintain community and support is through the use of messaging apps like Slack and Discord. These platforms provide a space for individuals to connect, share information, and offer support to one another. For example, individuals can share job openings and referral networks, providing an additional avenue for job searching.
 Below is a real example based on a live Discord currently servicing a group of individuals affected by the most recent tech layoffs of 2023.
