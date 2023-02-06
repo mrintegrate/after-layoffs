@@ -24,3 +24,10 @@ Discord is a voice, and text-based chat program used most often in the gaming co
   - A member would have the broadest access without having full admin access.  This role is reserved for members of the layoff group.
 <h2 align="center">Channel Sections</h2>
 <p>To create categories for channels in Discord, you'll need to use Discord's server settings and channel management features. Here's a general outline of the steps to follow:</p>
+
+1.  Access the server settings: From the server menu, click on "Server Settings" or the gear icon.
+2.  Go to the "Channels" section: In the server settings, navigate to the "Channels" section.
+3.  Create a new category: Click on the "Create Category" button to create a new category. You can give the category a name and set the order in which it appears in the channel list.
+4.  Create channels within the category: Once you have created a category, you can create channels within that category by clicking on the "Create Channel" button and selecting "Text Channel" or "Voice Channel".
+5.  Assign channels to the category: To assign a channel to a category, click and drag the channel into the desired category in the channel list.
+
