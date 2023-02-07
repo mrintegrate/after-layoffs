@@ -1,7 +1,8 @@
 <h1 align="center">Landing on our Feet: What happens after the layoff?</h1>
 
 <h2>I. Gather the Troops</h2>
-   <p>Maintaining company culture, morale, and community even after a layoff is crucial for both the remaining employees and those who were laid off. Layoffs can be a traumatic and stressful experience, leading to feelings of uncertainty, loss, and betrayal. However, by fostering a sense of community and support, both groups can mitigate the negative impact of layoffs and even turn the experience into an opportunity for growth and development.  Step 1 is to gather those affected into a group, whether through linkedin, slack, or whatsapp. We will refer to this group as “MemberX”. <b>Below is a real example based on a live Discord currently servicing a group of individuals affected by the most recent tech layoffs of 2023.</b></p>
+   <p>Maintaining culture, morale, and community even after a layoff is crucial for both the remaining employees and those who were laid off. Layoffs can be a traumatic and stressful experience, leading to feelings of uncertainty, loss, and betrayal. However, by fostering a sense of community and support, both groups can mitigate the negative impact of layoffs and even turn the experience into an opportunity for growth and development.  Step 1 is to gather those affected into a group, whether through linkedin, slack, or whatsapp. We will refer to this group as “MemberX”.</p>
+   <p><b>Below is a real example based on a live Discord currently servicing a group of individuals affected by the most recent tech layoffs of 2023.</b></p>
     <h2>II. Utilizing Messaging Platforms</h2>
     <p>Use of messaging apps like Slack and Discord can provide a space for individuals to connect, share information, and offer support to one another. Sharing job openings and referral networks can provide an additional avenue for job searching.  See below for a walkthrough on how to replicate this process using a prebuilt Discord Template.  Step 2, gather all of those people into one messaging platform like Discord or Slack.</p>
     <h2>III. Cathartic Discussions and Creativity</h2>
@@ -11,7 +12,7 @@
     <h2>V. Boosting Morale</h2>
     <p>Finding humor in the negative situation and celebrating small wins can boost morale and create a positive and resilient community. Providing a safe place for individuals to unwind and socialize, learning new skills, and supporting each other in interview preparation can be beneficial. A shared passion for video games, or a cute picture of a pet can save someone’s day.</p>
     <h2>VI. Conclusion</h2>
-    <p>In conclusion, it is essential for both remaining and laid-off employees to preserve the company's culture, morale, and sense of community after a layoff.  Those let go must combine and remain as one group, one voice. By providing emotional support, practical assistance, and creating a supportive community through shared resources, individuals can not only reduce the adverse effects of layoffs but also turn it into an opportunity for personal growth and development.</p>
+    <p>In conclusion, it is essential to preserve the group culture, morale, and sense of community after a layoff.  There is clear strength in numbers.  Those let go must combine and remain as one group, one voice. By providing emotional support, practical assistance, and creating a supportive community through shared resources, individuals can not only reduce the adverse effects of layoffs but also turn it into an opportunity for personal growth and development.</p>
 
 <h2>Example Using Discord</h2>
 
