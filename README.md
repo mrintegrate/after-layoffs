@@ -12,7 +12,11 @@
     <h2>V. Boosting Morale</h2>
     <p>Finding humor in the negative situation and celebrating small wins can boost morale and create a positive and resilient community. Providing a safe place for individuals to unwind and socialize, learning new skills, and supporting each other in interview preparation can be beneficial. A shared passion for video games, or a cute picture of a pet can save someone’s day.</p>
     <h2>VI. Conclusion and Example</h2>
-    <p>In conclusion, it is essential to preserve the group culture, morale, and sense of community after a layoff.  There is clear strength in numbers.  Those let go must combine and remain as one group, one voice. By providing emotional support, practical assistance, and creating a supportive community through shared resources, individuals can not only reduce the adverse effects of layoffs but also turn it into an opportunity for personal growth and development.</p>
+    <p>In conclusion, it is essential to preserve the group culture, morale, and sense of community after a layoff.  There is clear strength in numbers that can ease the strain and sting of unemployment.  Those let go must combine and remain as one group, one voice. By providing emotional support, practical assistance, and creating a supportive community through shared resources, individuals can not only reduce the adverse effects of layoffs but also turn it into an opportunity for personal growth and development.  The following is a working example of how a group of laid off workers can rely on one another to arrive safely on the other side of unemployment.</p>
+
+## Why Discord and How to setup for Discord from scratch:
+<p>Discord is a voice, and text-based chat program used most often in the gaming community.  It is free and easily accessible to all.  It allows video and voice chat for free with huddles and all of the text functionality of slack.</p>  
+<p>It is broken down into levels.  First, there is the server, where all channels and members are housed.  Next are channel sections.  These sections can be configured to maintain privacy/security and add organization to the channels housed under them.  Lastly are the channels.  Whether they are text or voice channels, these are the spaces people can access and converse based on their roles.  Channels can inherit their security settings from their corresponding section or can have their own permissions configured by a server administrator.</p>
 
 #### If you already know how to use discord, please feel free to use the following template and skip ahead to the permissions.  Otherwise, to create your own discord and follow along, please follow this link: [Discord Template](https://discord.new/Q6hCwuZPyhbT) 
 
@@ -26,12 +30,7 @@
 </ol>
 <p>Note: You'll need to have the "Server Template" feature enabled on your Discord account to use this feature.</p>
 
-## Why Discord and How to setup for Discord from scratch:
-<p>Discord is a voice, and text-based chat program used most often in the gaming community.  It is free and easily accessible to all.  It allows video and voice chat for free with huddles and all of the text functionality of slack.</p>  
-<p>It is broken down into levels.  First, there is the server, where all channels and members are housed.  Next are channel sections.  These sections can be configured to maintain privacy/security and add organization to the channels housed under them.  Lastly are the channels.  Whether they are text or voice channels, these are the spaces people can access and converse based on their roles.  Channels can inherit their security settings from their corresponding section or can have their own permissions configured by a server administrator.</p>
-
-
-## For this application, the following role types are recommended: 
+## For this project, the following role types are recommended: 
 
 #### Administrator 
 <p>A full admin that can see every channel in discord, set up permissions, create/delete channels, configure bots, and be the adjudicator as needed.</p>
@@ -43,7 +42,7 @@
 <p>A memberx would have the broadest access without having full admin access.  This role is reserved for member’s of the layoff group.</p>
 
 
-## For this application, the following channel categories are recommended:
+## For this project, the following channel categories are recommended:
 #### Public to All - Allies and Alumni Chat  
 <p>A fully public section available to all that join the server.</p>
 
