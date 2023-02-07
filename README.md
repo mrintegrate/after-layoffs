@@ -1,4 +1,4 @@
-<h1 align="center">Landing on our Feet: What happens after the layoff?</h1>
+<h1 align="center">Landing on your Feet: Life after the layoff?</h1>
 
 <h2>I. Gather the Troops</h2>
    <p>Maintaining culture, morale, and community even after a layoff is crucial for both the remaining employees and those who were laid off. Layoffs can be a traumatic and stressful experience, leading to feelings of uncertainty, loss, and betrayal. However, by fostering a sense of community and support, both groups can mitigate the negative impact of layoffs and even turn the experience into an opportunity for growth and development.  Step 1 is to gather those affected into a group, whether through linkedin, slack, or whatsapp. We will refer to this group as “MemberX”.</p>
