@@ -19,10 +19,7 @@
 ## Channel Sections
 <p>To create categories for channels in Discord, you'll need to use Discord's server settings and channel management features. Here's a general outline of the steps to follow:</p>
 
-<p>
-<img src="C:\Users\nsmas\Desktop" alt="Smiley face" style="float:right;width:42px;height:42px;">
-A paragraph with a floating image. A paragraph with a floating image. A paragraph with a floating image.
-</p>
+
 <ol>
   <li>Access the server settings: From the server menu, click on "Server Settings" or the gear icon.</li>
   <li>Go to the "Channels" section: In the server settings, navigate to the "Channels" section.</li>
@@ -40,3 +37,22 @@ A paragraph with a floating image. A paragraph with a floating image. A paragrap
 ### Section: “Public to All: Hiring Allies”
 <p>This section is a place for anyone to join who has a network or referral to give.  It is built for those affected by layoffs or without work to have open conversations with those hiring or those who have network connections up for offer.</p>
 
+#### Channels in this section include
+
+#everyone-welcome - A space for any new member of the server to be greeted and instructed on the rules, naming requirements, and how to upgrade their roles to meet their needs.
+Example: 
+<p>To set up Mee6 in Discord, you'll need to follow these steps:</p>
+<ol>
+  <li>Add Mee6 to your server: Go to the Mee6 website (https://mee6.xyz/) and click on the "Add to Discord" button. You will then be prompted to select the server where you want to add Mee6.</li>
+  <li>Authorize Mee6: You'll need to give Mee6 permission to access your Discord server by clicking on the "Authorize" button.</li>
+  <li>Set up Mee6 in your server: After Mee6 has been added to your server, you'll need to set it up. Go to the Mee6 dashboard by typing "!Mee6" in a text channel on your server. From there, you can set up various features such as leveling, moderation, and custom commands.
+</li>
+  <li>Customize Mee6's settings: In the Mee6 dashboard, you can customize Mee6's settings to your liking. For example, you can set up leveling by assigning experience points for specific actions, such as sending messages or joining voice channels.
+</li>
+  <li> Start using Mee6: After you've set up Mee6, you can start using its features on your server. For example, you can use Mee6's moderation features to enforce server rules, or use its leveling features to encourage users to be active.
+</li>
+
+</ol>
+<p>By following these steps, you can set up Mee6 in your Discord server and start using its features to enhance your server experience.</p>
+
+## Public Channel Sections
