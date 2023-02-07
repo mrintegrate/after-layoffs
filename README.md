@@ -45,7 +45,7 @@
 <p>A memberx would have the broadest access without having full admin access.  This role is reserved for member’s of the layoff group.</p>
 
 
-## For this application, the following channel categories are recommended.
+## For this application, the following channel categories are recommended:
 #### Public to All - Allies and Alumni Chat  
 <p>A fully public section available to all that join the server.</p>
 
