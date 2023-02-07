@@ -28,9 +28,6 @@
 </ol>
 <p>Note: You'll need to have the "Server Template" feature enabled on your Discord account to use this feature.</p>
 
-
-
-
 ## Why Discord and How to setup for Discord from scratch:
 <p>Discord is a voice, and text-based chat program used most often in the gaming community.  It is free and easily accessible to all.  It allows video and voice chat for free with huddles and all of the text functionality of slack.</p>  
 <p>It is broken down into levels.  First, there is the server, where all channels and members are housed.  Next are channel sections.  These sections can be configured to maintain privacy/security and add organization to the channels housed under them.  Lastly are the channels.  Whether they are text or voice channels, these are the spaces people can access and converse based on their roles.  Channels can inherit their security settings from their corresponding section or can have their own permissions configured by a server administrator.</p>
@@ -41,7 +38,7 @@
   - A full admin that can see every channel in discord, set up permissions, create/delete channels, configure bots, and be the adjudicator as needed.
 #### Hiring-Ally
   - A hiring-ally is someone from outside of the layoff group who wishes the reach out to the layoff group to help in any way possible.  So far, this group has included recruiters, employees still with the previous employer, friends from the memberx's networks and hiring managers.
-#### Memberx (Can be any unique Name)
+#### MemberX (Can be any unique Name)
   - A memberx would have the broadest access without having full admin access.  This role is reserved for memberx’s of the layoff group.
 ## For this application, the following channel categories are recommended.
 #### Public to All - Allies and Alumni Chat
@@ -151,7 +148,7 @@
 <li>Set hierarchy: The order in which the roles are listed determines their hierarchy. The role at the top of the list will have the highest permissions, while the role at the bottom will have the lowest. Make sure to set the "Administrators" role at the top of the list so they have the highest level of access.</li>
 </ol>
 
-<p>Assign roles to users: Finally, you can assign the appropriate role to each user in your server. To do this, right-click on the user's name and select "Server Settings", then "Members". From there, you can select the appropriate role for each user.</p>
+<p>Assign roles to users: Finally, you can assign the appropriate role to each user in your server. To do this, right-click on the user's name and select "Server Settings", then "MemberX". From there, you can select the appropriate role for each user.</p>
 
 <p>By following these steps, you can set up the three group roles of "Administrator", "MemberX", and "Hiring-Ally" with the desired permissions for each role.<p>
 
