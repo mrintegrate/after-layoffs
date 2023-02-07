@@ -75,7 +75,7 @@
 
 </ol>
 
-## For this application, the following Channels are recommended: 
+## For this project, the following Channels are recommended: 
 
 <img src="https://github.com/mrintegrate/after-layoffs/blob/main/images/discord_channels.png" align="right"/>
 
