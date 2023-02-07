@@ -14,13 +14,15 @@
     <h2>VI. Conclusion and Example</h2>
     <p>In conclusion, it is essential to preserve the group culture, morale, and sense of community after a layoff.  There is clear strength in numbers that can ease the strain and sting of unemployment.  Those let go must combine and remain as one group, one voice. By providing emotional support, practical assistance, and creating a supportive community through shared resources, individuals can not only reduce the adverse effects of layoffs but also turn it into an opportunity for personal growth and development.  The following is a working example of how a group of laid off workers can rely on one another to arrive safely on the other side of unemployment.</p>
 
-## Why Discord and How to setup for Discord from scratch:
+## Why Discord and How to setup from scratch:
 <p>Discord is a voice, and text-based chat program used most often in the gaming community.  It is free and easily accessible to all.  It allows video and voice chat for free with huddles and all of the text functionality of slack.</p>  
 <p>It is broken down into levels.  First, there is the server, where all channels and members are housed.  Next are channel sections.  These sections can be configured to maintain privacy/security and add organization to the channels housed under them.  Lastly are the channels.  Whether they are text or voice channels, these are the spaces people can access and converse based on their roles.  Channels can inherit their security settings from their corresponding section or can have their own permissions configured by a server administrator.</p>
 
+#### If you are new to Discord you can register here: [Discord Registration](https://discord.com/register)
+
 #### If you already know how to use discord, please feel free to use the following template and skip ahead to the permissions.  Otherwise, to create your own discord and follow along, please follow this link: [Discord Template](https://discord.new/Q6hCwuZPyhbT) 
 
-<p>If clicking the link above does not prompt you to create a discord server automatically, to create a discord server from a template link, you can follow these steps:</p>
+<p>If clicking the template link above does not prompt you to create a discord server automatically, to create a discord server from a template link, you can follow these steps:</p>
 <ol>
   <li>Log in to your Discord account.</li>
   <li>Click on the "Server Templates" button on the Discord Homepage.</li>
