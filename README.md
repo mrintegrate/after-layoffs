@@ -126,17 +126,17 @@
 
 <ol>
 <li>Access the server settings: From the server menu, click on "Server Settings" or the gear icon.</li>
-<li>Create the roles: In the "Roles" section, click on the "Create Role" button to create the three roles: "Members", "Hiring Allies", and "Administrators".</li>
+<li>Create the roles: In the "Roles" section, click on the "Create Role" button to create the three roles: "Administrator", "MemberX", and "Hiring-Ally".</li>
 <li>Assign permissions to each role: For each role, you can assign specific permissions such as the ability to send messages, read messages, add reactions, and more. You can do this by selecting the role from the list and then checking or unchecking the permissions in the list.</li>
 <li>Set hierarchy: The order in which the roles are listed determines their hierarchy. The role at the top of the list will have the highest permissions, while the role at the bottom will have the lowest. Make sure to set the "Administrators" role at the top of the list so they have the highest level of access.</li>
 </ol>
 
 <p>Assign roles to users: Finally, you can assign the appropriate role to each user in your server. To do this, right-click on the user's name and select "Server Settings", then "Members". From there, you can select the appropriate role for each user.</p>
 
-<p>By following these steps, you can set up the three group roles of ** "Membersx" **, ** "Hiring Allies" **, and ** "Administrators" ** with the desired permissions for each role.<p>
+<p>By following these steps, you can set up the three group roles of "Administrator", "MemberX", and "Hiring-Ally" with the desired permissions for each role.<p>
 
 
-### To set permissions in Discord for the roles "Administrator," "MemberX," and "Hiring-Ally," follow these steps:
+### To set permissions in Discord for the roles "Administrator", "MemberX", and "Hiring-Ally" follow these steps:
   
 <ol>
 <li>Log in to your Discord server.</li>
