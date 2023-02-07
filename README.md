@@ -69,11 +69,14 @@
 
 ## For this application, the following Channels are recommended: 
 
-<p align="right"> <img src="https://github.com/mrintegrate/after-layoffs/blob/main/images/discord_channels.png" /> </p>
+<img src="https://github.com/mrintegrate/after-layoffs/blob/main/images/discord_channels.png" align="right"/>
 
 
 ### Public Channel Sections
-- #everyone-welcome - A space for any new member of the server to be greeted and instructed on the rules, naming requirements, and how to upgrade their roles to meet their needs.
+- #everyone-welcome - A space for any new member of the server to be greeted and instructed on the rules, naming requirements, and how to upgrade their roles to meet their needs. 
+
+<p align="left"> <img src="https://github.com/mrintegrate/after-layoffs/blob/main/images/example%20greeting.png"/></p>
+
 - #allies-hiring-help - A space for hiring allies to converse with those laid off or without work and share leads and tips for the job hunt.
 - #allies-resume-help - A space for hiring allies to view and give feedback on candidates’ resumes and other search documents
 - &#x1F50A;hiring-allies-voice - A space for MemberX's only conversations to take place utilizing discord's video conferencing functionality
