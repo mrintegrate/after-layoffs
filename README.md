@@ -34,25 +34,34 @@
 
 
 ## For this application, the following role types are recommended: 
-#### Administrator
-  - A full admin that can see every channel in discord, set up permissions, create/delete channels, configure bots, and be the adjudicator as needed.
-#### Hiring-Ally
-  - A hiring-ally is someone from outside of the layoff group who wishes the reach out to the layoff group to help in any way possible.  So far, this group has included recruiters, employees still with the previous employer, friends from the memberx's networks and hiring managers.
-#### MemberX (Can be any unique Name)
-  - A memberx would have the broadest access without having full admin access.  This role is reserved for memberx’s of the layoff group.
-## For this application, the following channel categories are recommended.
-#### Public to All - Allies and Alumni Chat
-  - A fully public section available to all that join the server.
-#### Private - General
-  - A section for private conversations to take place, ideas to be shared in a safe environment, new skills to be learned, referrals to be given,and for new nominations to the group to be made.
-#### Private - Finding a Gig
-  - A section for interview preparation, success, and leads on companies hiring.
-#### Private - Social
-  - A space for catharsis, gaming, networking, and sharing your pets and hobbies.
-#### Private - Voice Channels
-  - A section for interview preparation, success, and leads on companies hiring.
 
-### Creating categories for Channels in Discord
+#### Administrator 
+<p>A full admin that can see every channel in discord, set up permissions, create/delete channels, configure bots, and be the adjudicator as needed.</p>
+
+#### Hiring-Ally
+<p>A hiring-ally is someone from outside of the layoff group who wishes the reach out to the layoff group to help in any way possible.  So far, this group has included recruiters, employees still with the previous employer, friends from the memberx's networks and hiring managers.</p>
+
+#### MemberX (Can be any unique Name)
+<p>A memberx would have the broadest access without having full admin access.  This role is reserved for member’s of the layoff group.</p>
+
+
+## For this application, the following channel categories are recommended.
+#### Public to All - Allies and Alumni Chat  
+<p>A fully public section available to all that join the server.</p>
+
+#### Private - General
+<p>A section for private conversations to take place, ideas to be shared in a safe environment, new skills to be learned, referrals to be given,and for new nominations to the group to be made.</p>
+
+#### Private - Finding a Gig
+<p>A section for interview preparation, success, and leads on companies hiring.</p>
+
+#### Private - Social
+<p>A space for catharsis, gaming, networking, and sharing your pets and hobbies.</p>
+
+#### Private - Voice Channels
+<p>A section for interview preparation, success, and leads on companies hiring.</p>
+
+##### Creating categories for Channels in Discord
 <p>To create categories for channels in Discord, you'll need to use Discord's server settings and channel management features. Here's a general outline of the steps to follow:</p>
 
 <ol>
@@ -72,7 +81,7 @@
 <img src="https://github.com/mrintegrate/after-layoffs/blob/main/images/discord_channels.png" align="right"/>
 
 
-### Public Channel Sections
+#### Public To All - Allies and MemberX's
 - #everyone-welcome - A space for any new member of the server to be greeted and instructed on the rules, naming requirements, and how to upgrade their roles to meet their needs. 
 
 <p align="left"> <img src="https://github.com/mrintegrate/after-layoffs/blob/main/images/example%20greeting.png"/></p>
@@ -81,7 +90,7 @@
 - #allies-resume-help - A space for hiring allies to view and give feedback on candidates’ resumes and other search documents.
 - &#x1F50A;hiring-allies-voice - A space for MemberX's only conversations to take place utilizing discord's video conferencing functionality.
 
-### Private - General
+#### Private - General
 - #private-general-chat - A general discussion channel for members of the layoff.
 - #contact-info - A space for members of the layoff to share their contact information and linkein links.
 - #how-to-business - A channel to discuss how to consult, setting up a consultancy, and general contracting questions.
@@ -91,13 +100,13 @@
 - #nominations - A space dedicated to discussing and inducting new members as full MemberX's or Hiring Allies.
 <p>(Permissions for all above channels set to MemberX role)</p>
  
-### Private - Finding a Gig
+#### Private - Finding a Gig
 - #interview-prep - A group to ask questions before an interview or a friendly channel to get resume tips or set up a mock interview.
 - #interview-success - A space to celebrate wins, near-wins, and successful progressions through the interview journey.
 - #companies-hiring - Leads and tips for which companies are hiring on any given day.
 <p>(Permissions for all above channels set to MemberX role)</p>
 
-### Private - Social
+#### Private - Social
 - #catharsis - A sympathetic void to let out the frustration, anger, or down feelings.
 - #pets - A sacred place for cats, dogs, and other animals to bring cheer and joy to all.
 - #gaming - Sometimes you just need to take a break and play a game.
@@ -106,10 +115,10 @@
 - #tv-and-movies - Relax and chat about what you saw recently.
 <p>(Permissions for all above channels set to MemberX role)</p>
 
-### Private Voice Channels
-- &#x1F50A;General Voice Chat - A space for MemberX's only conversations to take place utilizing discord's video conferencing functionality
+#### Private Voice Channels
+- &#x1F50A;General Voice Chat - A space for MemberX-only conversations to take place utilizing discord's video conferencing functionality
 
-### Creating Channels within Categories in Discord
+##### Creating Channels within Categories in Discord
 <p>To add a new channel to a category on Discord, follow these steps:</p>
 <ol>
   <li>Right-click the category you want to add the channel to and select "Create Channel"
@@ -126,36 +135,10 @@
 
 <p> Note: You must have the proper permissions to create channels and add them to categories on Discord. If you don't have the necessary permissions, reach out to the server administrator for assistance.</p>
 
-## Set up the Mee6 bot in Discord to wipe communications and automate
-
-<p>To set up Mee6 in Discord, you'll need to follow these steps:</p>
-<ol>
-  <li>Add Mee6 to your server: Go to the Mee6 website (https://mee6.xyz/) and click on the "Add to Discord" button. You will then be prompted to select the server where you want to add Mee6.</li>
-  <li>Authorize Mee6: You'll need to give Mee6 permission to access your Discord server by clicking on the "Authorize" button.</li>
-  <li>Set up Mee6 in your server: After Mee6 has been added to your server, you'll need to set it up. Go to the Mee6 dashboard by typing "!Mee6" in a text channel on your server. From there, you can set up various features such as leveling, moderation, and custom commands.
-</li>
-  <li>Customize Mee6's settings: In the Mee6 dashboard, you can customize Mee6's settings to your liking. For example, you can set up leveling by assigning experience points for specific actions, such as sending messages or joining voice channels.
-</li>
-  <li> Start using Mee6: After you've set up Mee6, you can start using its features on your server. For example, you can use Mee6's moderation features to enforce server rules, or use its leveling features to encourage users to be active.
-</li>
-
-</ol>
-
-### How to set up the Mee6 bot in Discord to wipe communications
-<ol>
-<li>Log in to the Discord server where you have Mee6 installed.</li>
-<li>Go to the Mee6 website (https://mee6.xyz/) and log in with your Discord account.</li>
-<li>Select the server you want to manage.</li>
-<li>Go to the "Automatic Moderation" section.</li>
-<li>Scroll down to the "History Purge" section.</li>
-<li>Turn on the "History Purge" toggle switch.</li>
-<li>Set the desired "History Purge Interval" and "Purge All Messages Older Than" options.</li>
-<li>Select the channel(s) you want to wipe the history for.</li>
-<li>Save the changes.</li>
-</ol>
-
 
 ## Set up Permissions
+
+##### Create Roles: "Administrator", "MemberX", and "Hiring-Ally"
 
 <p>To set permissions for group roles in Discord, you'll need to use Discord's server settings and role management features. Here's a general outline of the steps to follow:</p>
 
@@ -171,7 +154,7 @@
 <p>By following these steps, you can set up the three group roles of "Administrator", "MemberX", and "Hiring-Ally" with the desired permissions for each role.<p>
 
 
-### To set permissions in Discord for the roles "Administrator", "MemberX", and "Hiring-Ally" follow these steps:
+##### Set permissions for the roles: "Administrator", "MemberX", and "Hiring-Ally"
   
 <ol>
 <li>Log in to your Discord server.</li>
@@ -192,7 +175,7 @@
 
 </p>Note: The exact list of permissions and their descriptions will vary depending on the Discord server and its setup. It is important to carefully consider the permissions you grant to each role, as granting too many permissions to a role can potentially lead to security and management issues.</p>
 
-### How to set permissions on channels or categories in Discord:
+##### Assign a Role's permissions to a channel or category:
 
 <ol>
   <li>Open your Discord server and navigate to the "Server Settings" page by clicking on the server name and then clicking on the "Server Settings" button. </li>
@@ -203,5 +186,37 @@
   <li>Click on the "Save Changes" button to apply your changes. </li>
 </ol>
 <p>Note: You need to have the "Manage Server" permission to set permissions for channels and categories in Discord.</p>
+
+
+## Set up the Mee6 bot in Discord to wipe communications, greet people, and generally automate
+
+##### To set up Mee6 in Discord, you'll need to follow these steps:
+<ol>
+  <li>Add Mee6 to your server: Go to the Mee6 website (https://mee6.xyz/) and click on the "Add to Discord" button. You will then be prompted to select the server where you want to add Mee6.</li>
+  <li>Authorize Mee6: You'll need to give Mee6 permission to access your Discord server by clicking on the "Authorize" button.</li>
+  <li>Set up Mee6 in your server: After Mee6 has been added to your server, you'll need to set it up. Go to the Mee6 dashboard by typing "!Mee6" in a text channel on your server. From there, you can set up various features such as leveling, moderation, and custom commands.
+</li>
+  <li>Customize Mee6's settings: In the Mee6 dashboard, you can customize Mee6's settings to your liking. For example, you can set up leveling by assigning experience points for specific actions, such as sending messages or joining voice channels.
+</li>
+  <li> Start using Mee6: After you've set up Mee6, you can start using its features on your server. For example, you can use Mee6's moderation features to enforce server rules, or use its leveling features to encourage users to be active.
+</li>
+
+</ol>
+
+##### How to set up the Mee6 bot in Discord to wipe communications
+<ol>
+<li>Log in to the Discord server where you have Mee6 installed.</li>
+<li>Go to the Mee6 website (https://mee6.xyz/) and log in with your Discord account.</li>
+<li>Select the server you want to manage.</li>
+<li>Go to the "Automatic Moderation" section.</li>
+<li>Scroll down to the "History Purge" section.</li>
+<li>Turn on the "History Purge" toggle switch.</li>
+<li>Set the desired "History Purge Interval" and "Purge All Messages Older Than" options.</li>
+<li>Select the channel(s) you want to wipe the history for.</li>
+<li>Save the changes.</li>
+</ol>
+
+
+
 
 
