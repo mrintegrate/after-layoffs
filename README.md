@@ -72,8 +72,27 @@
 
 ## For this application, the following Channels are recommended: 
 
-<p align="center"> <img src="https://github.com/mrintegrate/after-layoffs/blob/main/images/discord_channels.png" /> </p>
+<p align="right"> <img src="https://github.com/mrintegrate/after-layoffs/blob/main/images/discord_channels.png" /> </p>
 
+
+### Public Channel Sections
+- #everyone-welcome - A space for any new member of the server to be greeted and instructed on the rules, naming requirements, and how to upgrade their roles to meet their needs.
+- #allies-hiring-help - A space for hiring allies to converse with those laid off or without work and share leads and tips for the job hunt.
+- #allies-resume-help - A space for hiring allies to view and give feedback on candidates’ resumes and other search documents
+- &#x1F50A;hiring-allies-voice - A space for MemberX's only conversations to take place utilizing discord's video conferencing functionality
+
+### Public Channel Sections
+- #everyone-welcome - A space for any new member of the server to be greeted and instructed on the rules, naming requirements, and how to upgrade their roles to meet their needs.
+- #allies-hiring-help - A space for hiring allies to converse with those laid off or without work and share leads and tips for the job hunt.
+- #allies-resume-help - A space for hiring allies to view and give feedback on candidates’ resumes and other search documents
+ 
+### Public Channel Sections
+- #everyone-welcome - A space for any new member of the server to be greeted and instructed on the rules, naming requirements, and how to upgrade their roles to meet their needs.
+- #allies-hiring-help - A space for hiring allies to converse with those laid off or without work and share leads and tips for the job hunt.
+- #allies-resume-help - A space for hiring allies to view and give feedback on candidates’ resumes and other search documents
+
+### Private Voice Channels
+- &#x1F50A;General Voice Chat - A space for MemberX's only conversations to take place utilizing discord's video conferencing functionality
 
 ### Creating Channels within Categories in Discord
 <p>To add a new channel to a category on Discord, follow these steps:</p>
