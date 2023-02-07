@@ -78,18 +78,33 @@
 <p align="left"> <img src="https://github.com/mrintegrate/after-layoffs/blob/main/images/example%20greeting.png"/></p>
 
 - #allies-hiring-help - A space for hiring allies to converse with those laid off or without work and share leads and tips for the job hunt.
-- #allies-resume-help - A space for hiring allies to view and give feedback on candidates’ resumes and other search documents
-- &#x1F50A;hiring-allies-voice - A space for MemberX's only conversations to take place utilizing discord's video conferencing functionality
+- #allies-resume-help - A space for hiring allies to view and give feedback on candidates’ resumes and other search documents.
+- &#x1F50A;hiring-allies-voice - A space for MemberX's only conversations to take place utilizing discord's video conferencing functionality.
 
-### Public Channel Sections
-- #everyone-welcome - A space for any new member of the server to be greeted and instructed on the rules, naming requirements, and how to upgrade their roles to meet their needs.
-- #allies-hiring-help - A space for hiring allies to converse with those laid off or without work and share leads and tips for the job hunt.
-- #allies-resume-help - A space for hiring allies to view and give feedback on candidates’ resumes and other search documents
+### Private - General
+- #private-general-chat - A general discussion channel for members of the layoff.
+- #contact-info - A space for members of the layoff to share their contact information and linkein links.
+- #how-to-business - A channel to discuss how to consult, setting up a consultancy, and general contracting questions.
+- #startup-ideas - A sounding board for ideas for new businesses or products to be discussed privately 
+- #chat-gpt-uses - A learning lounge for learning how to use Chat GPT bt OpenAI
+- #referral-registry - A private place for members of the layoff to place a wish-list of future employers to expedite networking and referrals from within the group.
+- #nominations - A space dedicated to discussing and inducting new members as full MemberX's or Hiring Allies.
+<p>(Permissions for all above channels set to MemberX role)</p>
  
-### Public Channel Sections
-- #everyone-welcome - A space for any new member of the server to be greeted and instructed on the rules, naming requirements, and how to upgrade their roles to meet their needs.
-- #allies-hiring-help - A space for hiring allies to converse with those laid off or without work and share leads and tips for the job hunt.
-- #allies-resume-help - A space for hiring allies to view and give feedback on candidates’ resumes and other search documents
+### Private - Finding a Gig
+- #interview-prep - A group to ask questions before an interview or a friendly channel to get resume tips or set up a mock interview.
+- #interview-success - A space to celebrate wins, near-wins, and successful progressions through the interview journey.
+- #companies-hiring - Leads and tips for which companies are hiring on any given day.
+<p>(Permissions for all above channels set to MemberX role)</p>
+
+### Private - Social
+- #catharsis - A sympathetic void to let out the frustration, anger, or down feelings.
+- #pets - A sacred place for cats, dogs, and other animals to bring cheer and joy to all.
+- #gaming - Sometimes you just need to take a break and play a game.
+- #networking - No pressure socializing.  Find out who knows who, what folks are interested in.
+- #tech-support - Missing IT?  Make your own.  Helping each other through ups, downs, and technical difficulties is key.
+- #tv-and-movies - Relax and chat about what you saw recently.
+<p>(Permissions for all above channels set to MemberX role)</p>
 
 ### Private Voice Channels
 - &#x1F50A;General Voice Chat - A space for MemberX's only conversations to take place utilizing discord's video conferencing functionality
