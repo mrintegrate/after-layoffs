@@ -20,7 +20,7 @@
 
 #### If you are new to Discord you can register here: [Discord Registration](https://discord.com/register)
 
-#### If you already know how to use discord, please feel free to use the following template and skip ahead to the permissions.  Otherwise, to create your own discord and follow along, please follow this link: [Discord Template](https://discord.new/Q6hCwuZPyhbT) 
+#### If you already know how to use discord, please feel free to use the following template and skip ahead to the permissions.  Otherwise, to create your own discord and follow along, please follow this link: [Discord Template](https://discord.new/K37JsQethnJE) 
 
 <p>If clicking the template link above does not prompt you to create a discord server automatically, to create a discord server from a template link, you can follow these steps:</p>
 <ol>
