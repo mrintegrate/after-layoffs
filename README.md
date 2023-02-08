@@ -1,17 +1,62 @@
 <h1 align="center">Landing on your Feet: Life after the layoff?</h1>
 
+
+
+<p><b>An Illustrative Example: A Live Discord Community Supporting Those Impacted by the 2023 Technology Layoffs</b></p>
+<p>This succinct explanation outlines the formation of a group, comprised of individuals affected by the recent technology layoffs in 2023 from an individual company, and how they are supporting each other in their job search efforts.  A discord template is provided to make this easily reproducible.</p>
+
+<p>TLDR</p>
+
+<ol>
+<li>Click this link <a href="https://discord.new/K37JsQethnJE">Discord Template</a> to open discord on your local computer or in the browser to create a duplicate server matching the below project.</li>
+   <ul><li>If this does not work please follow the below instructions to install a template from a url.</li></ul>
+<li>Rename MemberX to match your organization's new name in the roles section of settings.</li>
+<li>Rename #memberx-nominations channel to match your organization's new name.</li>
+<li>Verify permissions are set for your roles, channels, and channel categories.</li>
+<li>Create an invite link and share it with your cohort.</li>
+<p>Here's how to create an invite link to a Discord server:</p>
+
+<ul>
+<li>Open Discord: Log in to the Discord account that you want to use to create the invite link.</li>
+
+<li>Select the server: Go to the Discord server you want to invite people to and click on the server name at the top of the screen.</li>
+
+<li>Open the server settings: Click on the server settings icon (it looks like a gear) and select "Invite People" from the menu.</li>
+
+<li>Generate the invite link: Click the "Create Invite" button and configure the invite options as desired. You can specify the number of uses, the expiration date, and whether new members will be automatically assigned a role.</li>
+
+<li>Share the link: Once the invite link has been generated, you can share it with others by copying and pasting it into an email, message, or other communication method.<l/i>
+
+<li>Note: The ability to create invite links and the options available may vary depending on your server's settings and the role you have within the server. If you encounter any difficulties, consult the Discord support resources for more information.</li>
+</ul>
+
+<li>Assign server admins to manage operations and usher people into groups and communications.</li>
+</ol>
+
+
+
+## Why companies should get involved and foster these communities
+<ul>
+<li><b>Better Company Image:</b> By handling layoffs in a professional and humane manner, companies can maintain a positive image in the eyes of their employees, former employees, and the general public. This can help to attract top talent and improve brand reputation, which can have a positive impact on future business prospects.</li>
+<li><b>Increased Productivity:</b> When layoffs are handled smoothly, remaining employees are less likely to be distracted by the stress and negativity that can come from in-fighting and low morale. This can help to maintain a more productive and positive work environment, which can lead to improved results and increased profitability.</li>
+<li><b>Improved Employee Retention:</b> Companies that handle layoffs with care and compassion are more likely to retain their best employees. This can help to reduce the costs associated with hiring and training new employees, and can improve the overall efficiency and effectiveness of the organization. Additionally, employees who feel valued and respected are more likely to be engaged and motivated, which can lead to increased productivity and a stronger company culture.
+
+</li>
+
+</ul>
+
 <h2>I. Gather the Troops</h2>
    <p>Maintaining culture, morale, and community even after a layoff is crucial for both the remaining employees and those who were laid off. Layoffs can be a traumatic and stressful experience, leading to feelings of uncertainty, loss, and betrayal. However, by fostering a sense of community and support, both groups can mitigate the negative impact of layoffs and even turn the experience into an opportunity for growth and development.  Step 1 is to gather those affected into a group, whether through linkedin, slack, or whatsapp. We will refer to this group as “MemberX”.</p>
-   <p><b>Below is a real example based on a live Discord currently serving a group of individuals affected by the most recent tech layoffs of 2023.</b></p>
-    <h2>II. Utilizing Messaging Platforms</h2>
+   
+<h2>II. Utilizing Messaging Platforms</h2>
     <p>Use of messaging apps like Slack and Discord can provide a space for individuals to connect, share information, and offer support to one another. Sharing job openings and referral networks can provide an additional avenue for job searching.  See below for a walkthrough on how to replicate this process using a prebuilt Discord Template.  Step 2, gather all of those people into one messaging platform like Discord or Slack.</p>
     <h2>III. Cathartic Discussions and Creativity</h2>
     <p>Cathartic discussions can allow individuals to process and cope with their emotions related to the layoff. Discussing new startup ideas can foster a sense of creativity and innovation, and provide a new focus for those who have been laid off. Step 3, create a safe environment for people to share what is on their minds, their experience, and ideas.</p>
-    <h2>IV. Practical Support</h2>
+<h2>IV. Practical Support</h2>
     <p>Sharing financial advice, sharing contact information, fast networking, communicating as one voice, and clarifying layoff severance details can be valuable for those who have been laid off. Reviewing each other's resumes and helping each other provide and survive can be a powerful way to bind together and provide practical assistance to those in need.  Step 4, start developing lanes for practical support to be provided from within the group's collective working knowledge. i.e. How to start a business or how to use chatgpt or building business networks or sharing accountant's information</p>
-    <h2>V. Boosting Morale</h2>
+<h2>V. Boosting Morale</h2>
     <p>Finding humor in the negative situation and celebrating small wins can boost morale and create a positive and resilient community. Providing a safe place for individuals to unwind and socialize, learning new skills, and supporting each other in interview preparation can be beneficial. A shared passion for video games, or a cute picture of a pet can save someone’s day.</p>
-    <h2>VI. Conclusion and Example</h2>
+<h2>VI. Conclusion and Example</h2>
     <p>In conclusion, it is essential to preserve the group culture, morale, and sense of community after a layoff.  There is clear strength in numbers that can ease the strain and sting of unemployment.  Those let go must combine and remain as one group, one voice. By providing emotional support, practical assistance, and creating a supportive community through shared resources, individuals can not only reduce the adverse effects of layoffs but also turn it into an opportunity for personal growth and development.  The following is a working example of how a group of laid off workers can rely on one another to arrive safely on the other side of unemployment.</p>
 
 ## Why Discord and How to setup from scratch:
@@ -135,6 +180,39 @@
 <p> Note: You must have the proper permissions to create channels and add them to categories on Discord. If you don't have the necessary permissions, reach out to the server administrator for assistance.</p>
 
 
+## For this project, the following bot is necessary to wipe communications, greet people, and generally automate
+
+
+##### To set up Mee6 in Discord, you'll need to follow these steps:
+<p>Here's how to set up Mee6 bot in Discord to greet new members and provide instructions on updating their name and having a role assigned:</p>
+Note: These steps may vary slightly depending on the version of Mee6 you are using. If you encounter any difficulties, refer to the Mee6 documentation for further guidance.
+
+<ol>
+  <li>Invite Mee6 to your Discord server: To do this, go to the Mee6 website and click the "Invite" button. This will prompt you to select the server you want to add the bot to and give it the necessary permissions.</li>
+  <li>Create a welcome channel: Create a new text channel in your server specifically for welcoming new members. (In the provided template this channel is known as "#everyone-welcome"</li>
+  <li>Set up the greeting message: Go to the Mee6 dashboard and click on the "Automation" tab. From there, select the "Greeting" option and configure the greeting message you want to use. Make sure to include instructions on how to update their name and have a role assigned.
+</li>
+  <li>Assign roles to new members: In the Mee6 dashboard, go to the "Roles" tab and set up the roles you want to assign to new members. You can also specify which role should be assigned automatically when a new member joins the server.
+</li>
+  <li> Start using Mee6: After you've set up Mee6, you can start using its features on your server. For example, you can use Mee6's moderation features to enforce server rules, or use its leveling features to encourage users to be active.
+</li>
+  <li>Test the setup: Invite a test user to your server and verify that the greeting message appears in the welcome channel and that the specified role is automatically assigned to the new member.  </li>
+</ol>
+
+##### How to set up the Mee6 bot in Discord to wipe communications
+<ol>
+<li>Log in to the Discord server where you have Mee6 installed.</li>
+<li>Go to the Mee6 website (https://mee6.xyz/) and log in with your Discord account.</li>
+<li>Select the server you want to manage.</li>
+<li>Go to the "Automatic Moderation" section.</li>
+<li>Scroll down to the "History Purge" section.</li>
+<li>Turn on the "History Purge" toggle switch.</li>
+<li>Set the desired "History Purge Interval" and "Purge All Messages Older Than" options.</li>
+<li>Select the channel(s) you want to wipe the history for.</li>
+<li>Save the changes.</li>
+</ol>
+
+
 ## Set up Permissions
 
 ##### Create Roles: "Administrator", "MemberX", and "Hiring-Ally"
@@ -187,33 +265,10 @@
 <p>Note: You need to have the "Manage Server" permission to set permissions for channels and categories in Discord.</p>
 
 
-## Set up the Mee6 bot in Discord to wipe communications, greet people, and generally automate
 
-##### To set up Mee6 in Discord, you'll need to follow these steps:
-<ol>
-  <li>Add Mee6 to your server: Go to the Mee6 website (https://mee6.xyz/) and click on the "Add to Discord" button. You will then be prompted to select the server where you want to add Mee6.</li>
-  <li>Authorize Mee6: You'll need to give Mee6 permission to access your Discord server by clicking on the "Authorize" button.</li>
-  <li>Set up Mee6 in your server: After Mee6 has been added to your server, you'll need to set it up. Go to the Mee6 dashboard by typing "!Mee6" in a text channel on your server. From there, you can set up various features such as leveling, moderation, and custom commands.
-</li>
-  <li>Customize Mee6's settings: In the Mee6 dashboard, you can customize Mee6's settings to your liking. For example, you can set up leveling by assigning experience points for specific actions, such as sending messages or joining voice channels.
-</li>
-  <li> Start using Mee6: After you've set up Mee6, you can start using its features on your server. For example, you can use Mee6's moderation features to enforce server rules, or use its leveling features to encourage users to be active.
-</li>
 
-</ol>
 
-##### How to set up the Mee6 bot in Discord to wipe communications
-<ol>
-<li>Log in to the Discord server where you have Mee6 installed.</li>
-<li>Go to the Mee6 website (https://mee6.xyz/) and log in with your Discord account.</li>
-<li>Select the server you want to manage.</li>
-<li>Go to the "Automatic Moderation" section.</li>
-<li>Scroll down to the "History Purge" section.</li>
-<li>Turn on the "History Purge" toggle switch.</li>
-<li>Set the desired "History Purge Interval" and "Purge All Messages Older Than" options.</li>
-<li>Select the channel(s) you want to wipe the history for.</li>
-<li>Save the changes.</li>
-</ol>
+
 
 
 
