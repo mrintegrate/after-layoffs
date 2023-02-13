@@ -1,11 +1,35 @@
 <h1 align="center">Landing on your Feet: Life after the layoff?</h1>
 
+<!-- toc -->
 
+  * [An Illustrative Example: A Live Discord Community Supporting Those Impacted by the 2023 Technology Layoffs](#an-illustrative-example-a-live-discord-community-supporting-those-impacted-by-the-2023-technology-layoffs)
+      - [Quickstart](#quickstart)
+      - [Why companies should get involved and foster these communities](#why-companies-should-get-involved-and-foster-these-communities)
+- [Appendix](#appendix)
+  * [Why Discord and How to setup from scratch:](#why-discord-and-how-to-setup-from-scratch)
+      - [Discord Registration](https://discord.com/register)
+      - [Discord Veterans: Get the template and go](#if-you-already-know-how-to-use-discord-please-feel-free-to-use-the-following-template-and-skip-ahead-to-the-permissions--otherwise-to-create-your-own-discord-and-follow-along-please-follow-this-link-discord-template)
+         - [Discord Template](https://discord.new/K37JsQethnJE)
+  * [Recommended Role types](#for-this-project-the-following-role-types-are-recommended)
+  * [Recommended Categories](#for-this-project-the-following-channel-categories-are-recommended)
+       - [Creating categories for Channels in Discord](#creating-categories-for-channels-in-discord)
+  * [Recommended Channels](#for-this-project-the-following-channels-are-recommended)
+       - [Creating Channels within Categories in Discord](#creating-channels-within-categories-in-discord)
+  * [Required Bot](#for-this-project-the-following-bot-is-necessary-to-wipe-communications-greet-people-and-generally-automate)
+       - [Mee6 in Discord](#to-set-up-mee6-in-discord-youll-need-to-follow-these-steps)
+       - [Mee6: wipe communications](#how-to-set-up-the-mee6-bot-in-discord-to-wipe-communications)
+  * [Set up Permissions:](#set-up-permissions)
+       - [Create Roles](#create-roles-administrator-groupx-and-hiring-ally)
+       - [Set permissions](#set-permissions-for-the-roles-administrator-groupx-and-hiring-ally)
+       - [Assign a Role's permissions to a channel or category](#assign-a-roles-permissions-to-a-channel-or-category)
 
-<p><b>An Illustrative Example: A Live Discord Community Supporting Those Impacted by the 2023 Technology Layoffs</b></p>
-<p>This repo outlines the formation of a support group, comprised of individuals affected by the recent technology layoffs in 2023 from a single company, and how they are supporting each other in their job search efforts.  A discord template is provided to make this easily reproducible for others.</p>
+<!-- tocstop -->
 
-<p><b>Quickstart</b></p>
+## An Illustrative Example: A Live Discord Community Supporting Those Impacted by the 2023 Technology Layoffs
+
+<p>This repo outlines the formation of a discord group comprised of individuals affected by the recent layoffs.  The following describes how they are supporting each other in general and in their job search efforts.  A discord template is provided to make this easily reproducible for others.</p>
+
+#### Quickstart
 
 <ol>
 <li>Click this link <a href="https://discord.new/k6mCeEAkdYeN">Discord Template</a> to open discord on your local computer or in the browser to create a duplicate server matching the below project.</li>
@@ -45,8 +69,9 @@
     <p>In conclusion, it is essential to preserve the group culture, morale, and sense of community after a layoff.  There is clear strength in numbers that can ease the strain and sting of unemployment.  Those let go must combine and remain as one group, one voice. By providing emotional support, practical assistance, and creating a supportive community through shared resources, individuals can not only reduce the adverse effects of layoffs but also turn it into an opportunity for personal growth and development. </p>
 
    
-# Appendix
+# Appendix - Discord and Server Operation How-to's
  <p>   The following is a working example of how a group of laid off workers can rely on one another to arrive safely on the other side of unemployment.</p>
+ 
 ## Why Discord and How to setup from scratch:
 <p>Discord is a voice, and text-based chat program used most often in the gaming community.  It is free and easily accessible to all.  It allows video and voice chat for free with huddles and all of the text functionality of slack.</p>  
 <p>It is broken down into levels.  First, there is the server, where all channels and members are housed.  Next are channel sections.  These sections can be configured to maintain privacy/security and add organization to the channels housed under them.  Lastly are the channels.  Whether they are text or voice channels, these are the spaces people can access and converse based on their roles.  Channels can inherit their security settings from their corresponding section or can have their own permissions configured by a server administrator.</p>
