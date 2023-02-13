@@ -160,12 +160,31 @@
 #### Private - Finding a Gig
 - #interview-prep - A group to ask questions before an interview or a friendly channel to get resume tips or set up a mock interview.
 - #interview-success - A space to celebrate wins, near-wins, and successful progressions through the interview journey.
+
+
+
+<img src="https://github.com/mrintegrate/after-layoffs/blob/main/images/interview_success1.png" width="75%">
+<img src="https://github.com/mrintegrate/after-layoffs/blob/main/images/interview_success2.png" width="25%">
+
 - #companies-hiring - Leads and tips for which companies are hiring on any given day.
+
+<img src="https://github.com/mrintegrate/after-layoffs/blob/main/images/companies_hiring1.png" width="75%">
+
 <p>(Permissions for all above channels set to GroupX role)</p>
 
 #### Private - Social
 - #catharsis - A sympathetic void to let out the frustration, anger, or down feelings.
+
+<img src="https://github.com/mrintegrate/after-layoffs/blob/main/images/catharsis1.png" width="75%">
+<img src="https://github.com/mrintegrate/after-layoffs/blob/main/images/catharsis2.png" width="75%">
+
+
+
 - #pets - A sacred place for cats, dogs, and other animals to bring cheer and joy to all.
+
+<img src="https://github.com/mrintegrate/after-layoffs/blob/main/images/pup.png" width="35%">
+
+
 - #gaming - Sometimes you just need to take a break and play a game.
 - #networking - No pressure socializing.  Find out who knows who, what folks are interested in.
 - #tech-support - Missing IT?  Make your own.  Helping each other through ups, downs, and technical difficulties is key.
