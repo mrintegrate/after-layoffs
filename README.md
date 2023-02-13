@@ -16,7 +16,7 @@
 <li>Create an invite link and share it with your cohort.</li>
 <ul><li>Here's how to create an invite link to a Discord server: <a href="https://support.discord.com/hc/en-us/articles/204155938-How-do-I-invite-friends-to-my-server-#:~:text=Open%20your%20server%20and%20click,ve%20communicated%20with%20most%20recently">Add Users to Discord</a></li></ul>
 
-
+</ol>
 
 
 
