@@ -3,14 +3,14 @@
 
 
 <p><b>An Illustrative Example: A Live Discord Community Supporting Those Impacted by the 2023 Technology Layoffs</b></p>
-<p>This repo outlines the formation of a support group, comprised of individuals affected by the recent technology layoffs in 2023 from an individual company, and how they are supporting each other in their job search efforts.  A discord template is provided to make this easily reproducible for others.</p>
+<p>This repo outlines the formation of a support group, comprised of individuals affected by the recent technology layoffs in 2023 from a single company, and how they are supporting each other in their job search efforts.  A discord template is provided to make this easily reproducible for others.</p>
 
-<p>TLDR</p>
+<p><b>Quickstart</b></p>
 
 <ol>
-<li>Click this link <a href="https://discord.new/sapUmEhgGAqz">Discord Template</a> to open discord on your local computer or in the browser to create a duplicate server matching the below project.</li>
+<li>Click this link <a href="https://discord.new/k6mCeEAkdYeN">Discord Template</a> to open discord on your local computer or in the browser to create a duplicate server matching the below project.</li>
    <ul><li>If this does not work please follow the below instructions to install a template from a url.</li></ul>
-<li>Rename GroupX to match your organization's new name in the roles section of settings.</li>
+<li>Rename GroupX to match your organization's new name in the roles section of Server Settings.</li>
 <li>Rename #memberx-nominations channel to match your organization's new name.</li>
 <li>Verify permissions are set for your roles, channels, and channel categories.</li>
 <li>Create an invite link and share it with your cohort.</li>
